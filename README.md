@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="400px" alt="handshake gif looping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AB33&center=true&vCenter=true&width=440&lines=Ol%C3%A1%2C+eu+sou+Arthur+Tomaz;Desenvolvedor+de+Sistemas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 ---
