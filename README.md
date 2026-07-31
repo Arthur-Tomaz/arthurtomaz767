@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/arthur-dergado/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="contato:arthurdergado@gmail.com">
+  <a href="mailto:arthurdergado@gmail.com">
     <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
